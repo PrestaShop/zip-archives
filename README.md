@@ -6,7 +6,7 @@ This repository hosts PrestaShop ZIP archives.
 
 ### Before 1.5.6
 
-Most of the ZIP archives have been added on the 30/06/2023. Some versions from the far past are missing.
+Most of the ZIP archives have been added on the 30/05/2023. Some versions from the far past are missing.
 
 ### Above 1.5.6
 
